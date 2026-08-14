@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-08-14T18:09:32.875127+00:00",
+  "updatedAt": "2026-08-14T20:04:23.413328+00:00",
   "sourceMode": "public-link",
   "sourceSheet": "PLAN",
-  "workbookFingerprint": "3864129ce5627111401913c318060453fad66faa152f8283db18af1986063140",
+  "workbookFingerprint": "c13b0fc21f21a6d303aba5b7f3b94ea9540a1306e8ee1a33f7bfcc1aadbc1935",
   "parserFingerprint": "3a48f0460168bd8cd6a2d4d22261c5d9ff2ac396a63933a5cb49a3ab8d0263ac",
-  "sourceFingerprint": "074f9a0c9fe7ef381bb6ef4fa933ed5021233cc735b7f03da08084ffb70edcad",
+  "sourceFingerprint": "41ddc1ad51a3e3429801010f8e7ff5132c4e5ccadf7d723c7d428be4296c36c2",
   "lessons": [
     {
       "id": "2026-08-14-1000-pu1",
@@ -20,7 +20,7 @@
         {
           "order": 1,
           "title": "Warm-up",
-          "minutes": 3,
+          "minutes": 5,
           "url": "https://youtu.be/-LLPpg2-t0g?si=sQz1zXGO2abcdUKj",
           "note": "Morning routine video (revise)",
           "images": [],
@@ -29,7 +29,7 @@
         {
           "order": 2,
           "title": "Vocabulary",
-          "minutes": 7,
+          "minutes": 10,
           "url": "https://wordwall.net/play/111819/112/975?wwmethod=link",
           "note": "have go do get phrases",
           "images": [],
@@ -38,7 +38,7 @@
         {
           "order": 3,
           "title": "Textbook practice",
-          "minutes": 10,
+          "minutes": 15,
           "url": "",
           "note": "AB Exercise 1, page 10",
           "images": [
@@ -49,7 +49,7 @@
         {
           "order": 4,
           "title": "Listening",
-          "minutes": 8,
+          "minutes": 10,
           "url": "",
           "note": "Track 4.10 , AB Exercise 2, page 10",
           "images": [
@@ -63,7 +63,7 @@
         {
           "order": 5,
           "title": "Game",
-          "minutes": 5,
+          "minutes": 18,
           "url": "https://eremenko87m.github.io/Chores_present-simple/",
           "note": "Interactive practice",
           "images": [],
@@ -72,8 +72,8 @@
         {
           "order": 6,
           "title": "Homework",
-          "minutes": 1,
-          "url": "AB p 11",
+          "minutes": 2,
+          "url": "",
           "note": "AB ex 3-4 p 11",
           "images": [],
           "audio": null
@@ -81,10 +81,10 @@
       ]
     },
     {
-      "id": "2026-08-14-1100-egor",
+      "id": "2026-08-14-1100-egor-отмена---в-отпуске",
       "date": "2026-08-14",
       "time": "11:00",
-      "student": "Egor",
+      "student": "Egor (отмена - в отпуске)",
       "level": "A2",
       "topic": "Character & Personality",
       "focus": "Comparatives",
@@ -94,7 +94,7 @@
         {
           "order": 1,
           "title": "Warm-up",
-          "minutes": 8,
+          "minutes": 0,
           "url": "",
           "note": "",
           "images": [],
@@ -103,36 +103,100 @@
         {
           "order": 2,
           "title": "Grammar",
-          "minutes": 15,
-          "url": "https://docs.google.com/",
-          "note": "Comparatives",
+          "minutes": 0,
+          "url": "",
+          "note": "",
           "images": [],
           "audio": null
         },
         {
           "order": 3,
           "title": "Textbook",
-          "minutes": 12,
+          "minutes": 0,
           "url": "",
-          "note": "Exercise 6",
+          "note": "",
           "images": [],
           "audio": null
         },
         {
           "order": 4,
           "title": "Speaking",
-          "minutes": 20,
-          "url": "https://meet.google.com/",
-          "note": "Compare two people",
+          "minutes": 0,
+          "url": "",
+          "note": "",
           "images": [],
           "audio": null
         },
         {
           "order": 5,
           "title": "Homework",
+          "minutes": 0,
+          "url": "",
+          "note": "",
+          "images": [],
+          "audio": null
+        }
+      ]
+    },
+    {
+      "id": "2026-08-15-1200-dima",
+      "date": "2026-08-15",
+      "time": "12:00",
+      "student": "Dima",
+      "level": "A1",
+      "topic": "In the park",
+      "focus": "Present Cont",
+      "duration": 40,
+      "accent": "lime",
+      "activities": [
+        {
+          "order": 1,
+          "title": "Warm-up",
           "minutes": 5,
           "url": "",
-          "note": "Write 5 sentences",
+          "note": "What is the weather like? How many children / animals can you see? What are they doing?",
+          "images": [
+            "assets/generated/row17_image1.png"
+          ],
+          "audio": null
+        },
+        {
+          "order": 2,
+          "title": "Reading",
+          "minutes": 15,
+          "url": "",
+          "note": "",
+          "images": [
+            "assets/generated/row18_image1.png"
+          ],
+          "audio": null
+        },
+        {
+          "order": 3,
+          "title": "Grammar",
+          "minutes": 10,
+          "url": "",
+          "note": "Present Cont Negative",
+          "images": [
+            "assets/generated/row19_image1.png"
+          ],
+          "audio": null
+        },
+        {
+          "order": 4,
+          "title": "Speaking",
+          "minutes": 7,
+          "url": "https://www.baamboozle.com/game/2450302",
+          "note": "",
+          "images": [],
+          "audio": null
+        },
+        {
+          "order": 5,
+          "title": "Homework",
+          "minutes": 3,
+          "url": "",
+          "note": "",
           "images": [],
           "audio": null
         }
