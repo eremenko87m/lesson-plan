@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-08-14T20:04:23.413328+00:00",
+  "updatedAt": "2026-08-14T21:02:42.658600+00:00",
   "sourceMode": "public-link",
   "sourceSheet": "PLAN",
-  "workbookFingerprint": "c13b0fc21f21a6d303aba5b7f3b94ea9540a1306e8ee1a33f7bfcc1aadbc1935",
+  "workbookFingerprint": "f65232e084bc4dca1ddd99cf8c20d646f5c94e73630b0aac330f161259c1b385",
   "parserFingerprint": "3a48f0460168bd8cd6a2d4d22261c5d9ff2ac396a63933a5cb49a3ab8d0263ac",
-  "sourceFingerprint": "41ddc1ad51a3e3429801010f8e7ff5132c4e5ccadf7d723c7d428be4296c36c2",
+  "sourceFingerprint": "8b5fe807dfe557438498247bf54da971cfc9e5fa5ace6cc1b08e09a18b6328a8",
   "lessons": [
     {
       "id": "2026-08-14-1000-pu1",
@@ -195,6 +195,46 @@
           "order": 5,
           "title": "Homework",
           "minutes": 3,
+          "url": "",
+          "note": "",
+          "images": [],
+          "audio": null
+        }
+      ]
+    },
+    {
+      "id": "2026-08-15-1000-ivan",
+      "date": "2026-08-15",
+      "time": "10:00",
+      "student": "Ivan",
+      "level": "B1+",
+      "topic": "Future",
+      "focus": "ways of expressing future",
+      "duration": 40,
+      "accent": "orange",
+      "activities": [
+        {
+          "order": 1,
+          "title": "Warm-up",
+          "minutes": 3,
+          "url": "",
+          "note": "What are your plans for the rest of this summer?",
+          "images": [],
+          "audio": null
+        },
+        {
+          "order": 2,
+          "title": "Reading",
+          "minutes": 30,
+          "url": "",
+          "note": "Идем по учебнику unit 3",
+          "images": [],
+          "audio": null
+        },
+        {
+          "order": 3,
+          "title": "Homework",
+          "minutes": 2,
           "url": "",
           "note": "",
           "images": [],
