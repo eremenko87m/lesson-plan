@@ -1,1 +1,0 @@
-{"name":"lessonflow-sync","private":true,"type":"module","scripts":{"sync":"node scripts/sync-yandex.mjs"},"dependencies":{"xlsx":"^0.18.5"}}
