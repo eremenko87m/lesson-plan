@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-08-14T15:43:42.141088+00:00",
+  "updatedAt": "2026-08-14T18:09:32.875127+00:00",
   "sourceMode": "public-link",
   "sourceSheet": "PLAN",
-  "workbookFingerprint": "06f52e6976d4ff1b65168bb5662a26b84bb0e5332956439ecdefdceae20f3a8b",
+  "workbookFingerprint": "3864129ce5627111401913c318060453fad66faa152f8283db18af1986063140",
   "parserFingerprint": "3a48f0460168bd8cd6a2d4d22261c5d9ff2ac396a63933a5cb49a3ab8d0263ac",
-  "sourceFingerprint": "abecf04bf8121a8a495d96a4c4b7da27a59d3ae7f37bf940bd48cf98b55d1174",
+  "sourceFingerprint": "074f9a0c9fe7ef381bb6ef4fa933ed5021233cc735b7f03da08084ffb70edcad",
   "lessons": [
     {
       "id": "2026-08-14-1000-pu1",
@@ -73,7 +73,7 @@
           "order": 6,
           "title": "Homework",
           "minutes": 1,
-          "url": "",
+          "url": "AB p 11",
           "note": "AB ex 3-4 p 11",
           "images": [],
           "audio": null
