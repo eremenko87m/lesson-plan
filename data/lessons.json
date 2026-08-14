@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-14T07:00:00Z",
-  "sourceMode": "demo",
+  "updatedAt": "2026-08-14T09:14:24.372609+00:00",
+  "sourceMode": "public-link",
   "sourceSheet": "PLAN",
-  "sourceFingerprint": "demo",
+  "sourceFingerprint": "06f52e6976d4ff1b65168bb5662a26b84bb0e5332956439ecdefdceae20f3a8b",
   "lessons": [
     {
-      "id": "2026-08-14-1000-max",
+      "id": "2026-08-14-1899-12-30-pu1",
       "date": "2026-08-14",
-      "time": "10:00",
-      "student": "Max",
+      "time": "1899-12-30",
+      "student": "PU1",
       "level": "A1",
       "topic": "Daily Routine",
       "focus": "Present Simple",
-      "duration": 45,
+      "duration": 60,
       "accent": "violet",
       "activities": [
         {
           "order": 1,
           "title": "Warm-up",
-          "minutes": 5,
-          "url": "https://www.youtube.com/",
-          "note": "Morning routine video",
+          "minutes": 3,
+          "url": "https://youtu.be/-LLPpg2-t0g?si=sQz1zXGO2abcdUKj",
+          "note": "Morning routine video (revise)",
           "images": [],
           "audio": null
         },
@@ -28,8 +28,8 @@
           "order": 2,
           "title": "Vocabulary",
           "minutes": 7,
-          "url": "https://quizlet.com/",
-          "note": "Revise daily routine",
+          "url": "https://wordwall.net/play/111819/112/975?wwmethod=link",
+          "note": "have go do get phrases",
           "images": [],
           "audio": null
         },
@@ -38,9 +38,9 @@
           "title": "Textbook practice",
           "minutes": 10,
           "url": "",
-          "note": "Exercise 4, page 57",
+          "note": "AB Exercise 1, page 10",
           "images": [
-            "assets/demo/exercise.svg"
+            "assets/generated/row4_image1.png"
           ],
           "audio": null
         },
@@ -49,43 +49,52 @@
           "title": "Listening",
           "minutes": 8,
           "url": "",
-          "note": "Listen twice and choose",
+          "note": "Track 4.10 , AB Exercise 2, page 10",
           "images": [
-            "assets/demo/exercise.svg"
+            "assets/generated/row5_image1.png"
           ],
           "audio": {
-            "src": "assets/demo/demo.wav",
-            "label": "Track 2.14"
+            "src": "assets/generated/2026-08-14-1899-12-30-pu1_04_audio.mp3",
+            "label": "Audio"
           }
         },
         {
           "order": 5,
           "title": "Game",
-          "minutes": 15,
+          "minutes": 5,
           "url": "https://eremenko87m.github.io/Chores_present-simple/",
           "note": "Interactive practice",
+          "images": [],
+          "audio": null
+        },
+        {
+          "order": 6,
+          "title": "Homework",
+          "minutes": 1,
+          "url": "",
+          "note": "AB ex 3-4 p 11",
           "images": [],
           "audio": null
         }
       ]
     },
     {
-      "id": "2026-08-14-1100-sofia",
+      "id": "2026-08-14-1899-12-30-egor",
       "date": "2026-08-14",
-      "time": "11:00",
-      "student": "Sofia",
+      "time": "1899-12-30",
+      "student": "Egor",
       "level": "A2",
       "topic": "Character & Personality",
       "focus": "Comparatives",
-      "duration": 60,
+      "duration": 40,
       "accent": "cyan",
       "activities": [
         {
           "order": 1,
           "title": "Warm-up",
           "minutes": 8,
-          "url": "https://quizlet.com/",
-          "note": "Adjectives",
+          "url": "",
+          "note": "",
           "images": [],
           "audio": null
         },
@@ -94,146 +103,34 @@
           "title": "Grammar",
           "minutes": 15,
           "url": "https://docs.google.com/",
-          "note": "Comparatives practice",
-          "images": [
-            "assets/demo/exercise.svg"
-          ],
+          "note": "Comparatives",
+          "images": [],
           "audio": null
         },
         {
           "order": 3,
+          "title": "Textbook",
+          "minutes": 12,
+          "url": "",
+          "note": "Exercise 6",
+          "images": [],
+          "audio": null
+        },
+        {
+          "order": 4,
           "title": "Speaking",
           "minutes": 20,
           "url": "https://meet.google.com/",
           "note": "Compare two people",
           "images": [],
           "audio": null
-        }
-      ]
-    },
-    {
-      "id": "2026-08-14-1300-leo",
-      "date": "2026-08-14",
-      "time": "13:00",
-      "student": "Leo",
-      "level": "A1+",
-      "topic": "Summer Camping",
-      "focus": "Have got / Weather",
-      "duration": 50,
-      "accent": "lime",
-      "activities": [
-        {
-          "order": 1,
-          "title": "Vocabulary",
-          "minutes": 10,
-          "url": "https://quizlet.com/",
-          "note": "Camping words",
-          "images": [],
-          "audio": null
         },
         {
-          "order": 2,
-          "title": "Adventure game",
-          "minutes": 20,
-          "url": "https://eremenko87m.github.io/present-simple-prepositions/",
-          "note": "Interactive mission",
-          "images": [],
-          "audio": null
-        }
-      ]
-    },
-    {
-      "id": "2026-08-14-1500-daniel",
-      "date": "2026-08-14",
-      "time": "15:00",
-      "student": "Daniel",
-      "level": "B1",
-      "topic": "Travel Stories",
-      "focus": "Speaking",
-      "duration": 50,
-      "accent": "orange",
-      "activities": [
-        {
-          "order": 1,
-          "title": "Photo prompt",
-          "minutes": 8,
-          "url": "https://www.youtube.com/",
-          "note": "Travel inspiration",
-          "images": [],
-          "audio": null
-        },
-        {
-          "order": 2,
-          "title": "Main speaking",
-          "minutes": 30,
-          "url": "https://meet.google.com/",
-          "note": "Tell a travel story",
-          "images": [],
-          "audio": null
-        }
-      ]
-    },
-    {
-      "id": "2026-08-14-1700-mia",
-      "date": "2026-08-14",
-      "time": "17:00",
-      "student": "Mia",
-      "level": "B2",
-      "topic": "Animal Farm",
-      "focus": "Literature",
-      "duration": 55,
-      "accent": "rose",
-      "activities": [
-        {
-          "order": 1,
-          "title": "Text",
-          "minutes": 15,
+          "order": 5,
+          "title": "Homework",
+          "minutes": 5,
           "url": "",
-          "note": "Read and analyse",
-          "images": [
-            "assets/demo/exercise.svg"
-          ],
-          "audio": null
-        },
-        {
-          "order": 2,
-          "title": "Discussion",
-          "minutes": 20,
-          "url": "https://zoom.us/",
-          "note": "Who is responsible?",
-          "images": [],
-          "audio": null
-        }
-      ]
-    },
-    {
-      "id": "2026-08-14-1900-alex",
-      "date": "2026-08-14",
-      "time": "19:00",
-      "student": "Alex",
-      "level": "A2+",
-      "topic": "Free Time",
-      "focus": "Present Continuous",
-      "duration": 45,
-      "accent": "blue",
-      "activities": [
-        {
-          "order": 1,
-          "title": "Grammar",
-          "minutes": 10,
-          "url": "https://docs.google.com/",
-          "note": "Quick review",
-          "images": [
-            "assets/demo/exercise.svg"
-          ],
-          "audio": null
-        },
-        {
-          "order": 2,
-          "title": "Game",
-          "minutes": 15,
-          "url": "https://www.baamboozle.com/games",
-          "note": "Action challenge",
+          "note": "Write 5 sentences",
           "images": [],
           "audio": null
         }
