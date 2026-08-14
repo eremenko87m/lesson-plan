@@ -1,13 +1,15 @@
 {
-  "updatedAt": "2026-08-14T09:14:24.372609+00:00",
+  "updatedAt": "2026-08-14T15:43:42.141088+00:00",
   "sourceMode": "public-link",
   "sourceSheet": "PLAN",
-  "sourceFingerprint": "06f52e6976d4ff1b65168bb5662a26b84bb0e5332956439ecdefdceae20f3a8b",
+  "workbookFingerprint": "06f52e6976d4ff1b65168bb5662a26b84bb0e5332956439ecdefdceae20f3a8b",
+  "parserFingerprint": "3a48f0460168bd8cd6a2d4d22261c5d9ff2ac396a63933a5cb49a3ab8d0263ac",
+  "sourceFingerprint": "abecf04bf8121a8a495d96a4c4b7da27a59d3ae7f37bf940bd48cf98b55d1174",
   "lessons": [
     {
-      "id": "2026-08-14-1899-12-30-pu1",
+      "id": "2026-08-14-1000-pu1",
       "date": "2026-08-14",
-      "time": "1899-12-30",
+      "time": "10:00",
       "student": "PU1",
       "level": "A1",
       "topic": "Daily Routine",
@@ -54,7 +56,7 @@
             "assets/generated/row5_image1.png"
           ],
           "audio": {
-            "src": "assets/generated/2026-08-14-1899-12-30-pu1_04_audio.mp3",
+            "src": "assets/generated/2026-08-14-1000-pu1_04_audio.mp3",
             "label": "Audio"
           }
         },
@@ -79,9 +81,9 @@
       ]
     },
     {
-      "id": "2026-08-14-1899-12-30-egor",
+      "id": "2026-08-14-1100-egor",
       "date": "2026-08-14",
-      "time": "1899-12-30",
+      "time": "11:00",
       "student": "Egor",
       "level": "A2",
       "topic": "Character & Personality",
