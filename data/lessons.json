@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-08-16T09:55:50.913546+00:00",
+  "updatedAt": "2026-08-16T13:21:22.252776+00:00",
   "sourceMode": "public-link",
   "sourceSheet": "PLAN",
-  "workbookFingerprint": "9ba646637f21f5937b661c04536aa523009846e4f0bf0f93dc3e8c8fbf796517",
+  "workbookFingerprint": "5238a090c6881f7c10f70d9848ce38423b935600b0b053315d9c811ac3762936",
   "parserFingerprint": "3a48f0460168bd8cd6a2d4d22261c5d9ff2ac396a63933a5cb49a3ab8d0263ac",
-  "sourceFingerprint": "1478366abbd6d2a69b8dc062a89c1c75ba33192b480057fcf158fcf55c41b372",
+  "sourceFingerprint": "6663e76427d2c4d9c928a3b7f5a0a14d0ccf2fce48d65ba26eafe403809ff03a",
   "lessons": [
     {
       "id": "2026-08-17-1000-pu1",
@@ -156,7 +156,7 @@
           "url": "",
           "note": "What is the weather like? How many children / animals can you see? What are they doing?",
           "images": [
-            "assets/generated/row17_image1.png"
+            "assets/generated/row17_image1.jpeg"
           ],
           "audio": null
         },
