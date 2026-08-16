@@ -1,7 +1,6 @@
 name: Sync LessonFlow from Yandex
 
 on:
-  workflow_dispatch:
   schedule:
     - cron: "*/10 * * * *"
 
@@ -11,6 +10,7 @@ permissions:
 jobs:
   sync:
     runs-on: ubuntu-latest
+
     env:
       YANDEX_TOKEN: ${{ secrets.YANDEX_TOKEN }}
       YANDEX_FILE_PATH: ${{ vars.YANDEX_FILE_PATH }}
