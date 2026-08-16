@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-08-16T09:00:09.131368+00:00",
+  "updatedAt": "2026-08-16T09:55:50.913546+00:00",
   "sourceMode": "public-link",
   "sourceSheet": "PLAN",
-  "workbookFingerprint": "43a178e7d31355bd8569c2473d00e06654cfa1a007b396ffdf3f0804252bc2d2",
+  "workbookFingerprint": "9ba646637f21f5937b661c04536aa523009846e4f0bf0f93dc3e8c8fbf796517",
   "parserFingerprint": "3a48f0460168bd8cd6a2d4d22261c5d9ff2ac396a63933a5cb49a3ab8d0263ac",
-  "sourceFingerprint": "1b3c2d8bdea9794fb076a7713175c9886fe3878200be62f506ede45268080e8f",
+  "sourceFingerprint": "1478366abbd6d2a69b8dc062a89c1c75ba33192b480057fcf158fcf55c41b372",
   "lessons": [
     {
       "id": "2026-08-17-1000-pu1",
@@ -81,8 +81,8 @@
       ]
     },
     {
-      "id": "2026-08-17-1100-egor-отмена---в-отпуске",
-      "date": "2026-08-17",
+      "id": "2026-08-18-1100-egor-отмена---в-отпуске",
+      "date": "2026-08-18",
       "time": "11:00",
       "student": "Egor (отмена - в отпуске)",
       "level": "A2",
@@ -203,8 +203,8 @@
       ]
     },
     {
-      "id": "2026-08-15-1000-ivan",
-      "date": "2026-08-15",
+      "id": "2026-08-18-1000-ivan",
+      "date": "2026-08-18",
       "time": "10:00",
       "student": "Ivan",
       "level": "B1+",
@@ -241,6 +241,30 @@
           "audio": null
         }
       ]
+    },
+    {
+      "id": "2026-08-17-1200-ge-a2",
+      "date": "2026-08-17",
+      "time": "12:00",
+      "student": "GE A2+",
+      "level": "A2+",
+      "topic": "отпуск",
+      "focus": "",
+      "duration": 0,
+      "accent": "rose",
+      "activities": []
+    },
+    {
+      "id": "2026-08-17-1100-masha-rita",
+      "date": "2026-08-17",
+      "time": "11:00",
+      "student": "Masha&Rita",
+      "level": "A1",
+      "topic": "Lesson",
+      "focus": "",
+      "duration": 0,
+      "accent": "blue",
+      "activities": []
     }
   ]
 }
