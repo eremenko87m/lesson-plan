@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-16T07:47:17.373563+00:00",
+  "updatedAt": "2026-08-16T09:00:09.131368+00:00",
   "sourceMode": "public-link",
   "sourceSheet": "PLAN",
-  "workbookFingerprint": "f65232e084bc4dca1ddd99cf8c20d646f5c94e73630b0aac330f161259c1b385",
+  "workbookFingerprint": "43a178e7d31355bd8569c2473d00e06654cfa1a007b396ffdf3f0804252bc2d2",
   "parserFingerprint": "3a48f0460168bd8cd6a2d4d22261c5d9ff2ac396a63933a5cb49a3ab8d0263ac",
-  "sourceFingerprint": "8b5fe807dfe557438498247bf54da971cfc9e5fa5ace6cc1b08e09a18b6328a8",
+  "sourceFingerprint": "1b3c2d8bdea9794fb076a7713175c9886fe3878200be62f506ede45268080e8f",
   "lessons": [
     {
-      "id": "2026-08-14-1000-pu1",
-      "date": "2026-08-14",
+      "id": "2026-08-17-1000-pu1",
+      "date": "2026-08-17",
       "time": "10:00",
       "student": "PU1",
       "level": "A1",
@@ -56,7 +56,7 @@
             "assets/generated/row5_image1.png"
           ],
           "audio": {
-            "src": "assets/generated/2026-08-14-1000-pu1_04_audio.mp3",
+            "src": "assets/generated/2026-08-17-1000-pu1_04_audio.mp3",
             "label": "Audio"
           }
         },
@@ -81,8 +81,8 @@
       ]
     },
     {
-      "id": "2026-08-14-1100-egor-отмена---в-отпуске",
-      "date": "2026-08-14",
+      "id": "2026-08-17-1100-egor-отмена---в-отпуске",
+      "date": "2026-08-17",
       "time": "11:00",
       "student": "Egor (отмена - в отпуске)",
       "level": "A2",
@@ -139,9 +139,9 @@
       ]
     },
     {
-      "id": "2026-08-15-1200-dima",
-      "date": "2026-08-15",
-      "time": "12:00",
+      "id": "2026-08-17-1600-dima",
+      "date": "2026-08-17",
+      "time": "16:00",
       "student": "Dima",
       "level": "A1",
       "topic": "In the park",
