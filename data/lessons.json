@@ -1,0 +1,243 @@
+{
+  "updatedAt": "2026-08-14T07:00:00Z",
+  "sourceMode": "demo",
+  "sourceSheet": "PLAN",
+  "sourceFingerprint": "demo",
+  "lessons": [
+    {
+      "id": "2026-08-14-1000-max",
+      "date": "2026-08-14",
+      "time": "10:00",
+      "student": "Max",
+      "level": "A1",
+      "topic": "Daily Routine",
+      "focus": "Present Simple",
+      "duration": 45,
+      "accent": "violet",
+      "activities": [
+        {
+          "order": 1,
+          "title": "Warm-up",
+          "minutes": 5,
+          "url": "https://www.youtube.com/",
+          "note": "Morning routine video",
+          "images": [],
+          "audio": null
+        },
+        {
+          "order": 2,
+          "title": "Vocabulary",
+          "minutes": 7,
+          "url": "https://quizlet.com/",
+          "note": "Revise daily routine",
+          "images": [],
+          "audio": null
+        },
+        {
+          "order": 3,
+          "title": "Textbook practice",
+          "minutes": 10,
+          "url": "",
+          "note": "Exercise 4, page 57",
+          "images": [
+            "assets/demo/exercise.svg"
+          ],
+          "audio": null
+        },
+        {
+          "order": 4,
+          "title": "Listening",
+          "minutes": 8,
+          "url": "",
+          "note": "Listen twice and choose",
+          "images": [
+            "assets/demo/exercise.svg"
+          ],
+          "audio": {
+            "src": "assets/demo/demo.wav",
+            "label": "Track 2.14"
+          }
+        },
+        {
+          "order": 5,
+          "title": "Game",
+          "minutes": 15,
+          "url": "https://eremenko87m.github.io/Chores_present-simple/",
+          "note": "Interactive practice",
+          "images": [],
+          "audio": null
+        }
+      ]
+    },
+    {
+      "id": "2026-08-14-1100-sofia",
+      "date": "2026-08-14",
+      "time": "11:00",
+      "student": "Sofia",
+      "level": "A2",
+      "topic": "Character & Personality",
+      "focus": "Comparatives",
+      "duration": 60,
+      "accent": "cyan",
+      "activities": [
+        {
+          "order": 1,
+          "title": "Warm-up",
+          "minutes": 8,
+          "url": "https://quizlet.com/",
+          "note": "Adjectives",
+          "images": [],
+          "audio": null
+        },
+        {
+          "order": 2,
+          "title": "Grammar",
+          "minutes": 15,
+          "url": "https://docs.google.com/",
+          "note": "Comparatives practice",
+          "images": [
+            "assets/demo/exercise.svg"
+          ],
+          "audio": null
+        },
+        {
+          "order": 3,
+          "title": "Speaking",
+          "minutes": 20,
+          "url": "https://meet.google.com/",
+          "note": "Compare two people",
+          "images": [],
+          "audio": null
+        }
+      ]
+    },
+    {
+      "id": "2026-08-14-1300-leo",
+      "date": "2026-08-14",
+      "time": "13:00",
+      "student": "Leo",
+      "level": "A1+",
+      "topic": "Summer Camping",
+      "focus": "Have got / Weather",
+      "duration": 50,
+      "accent": "lime",
+      "activities": [
+        {
+          "order": 1,
+          "title": "Vocabulary",
+          "minutes": 10,
+          "url": "https://quizlet.com/",
+          "note": "Camping words",
+          "images": [],
+          "audio": null
+        },
+        {
+          "order": 2,
+          "title": "Adventure game",
+          "minutes": 20,
+          "url": "https://eremenko87m.github.io/present-simple-prepositions/",
+          "note": "Interactive mission",
+          "images": [],
+          "audio": null
+        }
+      ]
+    },
+    {
+      "id": "2026-08-14-1500-daniel",
+      "date": "2026-08-14",
+      "time": "15:00",
+      "student": "Daniel",
+      "level": "B1",
+      "topic": "Travel Stories",
+      "focus": "Speaking",
+      "duration": 50,
+      "accent": "orange",
+      "activities": [
+        {
+          "order": 1,
+          "title": "Photo prompt",
+          "minutes": 8,
+          "url": "https://www.youtube.com/",
+          "note": "Travel inspiration",
+          "images": [],
+          "audio": null
+        },
+        {
+          "order": 2,
+          "title": "Main speaking",
+          "minutes": 30,
+          "url": "https://meet.google.com/",
+          "note": "Tell a travel story",
+          "images": [],
+          "audio": null
+        }
+      ]
+    },
+    {
+      "id": "2026-08-14-1700-mia",
+      "date": "2026-08-14",
+      "time": "17:00",
+      "student": "Mia",
+      "level": "B2",
+      "topic": "Animal Farm",
+      "focus": "Literature",
+      "duration": 55,
+      "accent": "rose",
+      "activities": [
+        {
+          "order": 1,
+          "title": "Text",
+          "minutes": 15,
+          "url": "",
+          "note": "Read and analyse",
+          "images": [
+            "assets/demo/exercise.svg"
+          ],
+          "audio": null
+        },
+        {
+          "order": 2,
+          "title": "Discussion",
+          "minutes": 20,
+          "url": "https://zoom.us/",
+          "note": "Who is responsible?",
+          "images": [],
+          "audio": null
+        }
+      ]
+    },
+    {
+      "id": "2026-08-14-1900-alex",
+      "date": "2026-08-14",
+      "time": "19:00",
+      "student": "Alex",
+      "level": "A2+",
+      "topic": "Free Time",
+      "focus": "Present Continuous",
+      "duration": 45,
+      "accent": "blue",
+      "activities": [
+        {
+          "order": 1,
+          "title": "Grammar",
+          "minutes": 10,
+          "url": "https://docs.google.com/",
+          "note": "Quick review",
+          "images": [
+            "assets/demo/exercise.svg"
+          ],
+          "audio": null
+        },
+        {
+          "order": 2,
+          "title": "Game",
+          "minutes": 15,
+          "url": "https://www.baamboozle.com/games",
+          "note": "Action challenge",
+          "images": [],
+          "audio": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+ПОЯСНИТЕЛЬНАЯ ЗАПИСКА — LESSONFLOW
+
+LessonFlow — персональный интегратор для онлайн-преподавателя. Инструмент автоматически формирует красивый дневной dashboard из рабочего листа PLAN в Яндекс Таблице.
+
+В PLAN преподаватель хранит время урока, ученика, уровень, тему, последовательность этапов, ссылки, изображения упражнений и аудио. В одной активности могут одновременно использоваться интернет-ссылка, до двух изображений и аудиотрек.
+
+В той же книге могут находиться дополнительные листы GROUPS и MY BASE. Они используются как личные справочники преподавателя, но синхронизатор LessonFlow читает только лист PLAN и не передаёт содержимое остальных листов на сайт.
+
+GitHub Actions автоматически получает актуальную версию таблицы, извлекает данные и изображения из XLSX, при необходимости скачивает аудио и обновляет data/lessons.json. Если источник не менялся, лишний commit не создаётся. Синхронизация запускается автоматически каждые 10 минут или вручную.
+
+Для финального использования предусмотрен приватный режим через Yandex Disk REST API и OAuth-токен, который хранится в GitHub Secrets и не попадает в код сайта.
+
+Интерфейс показывает 5–6 карточек уроков на день, текущий и следующий урок, общее время и количество материалов. В Lesson Mode преподаватель открывает ссылки, увеличивает страницы учебника, воспроизводит аудио и отмечает выполненные этапы.
+
+
+Update in this redesign:
+- larger typography and softer bright palette
+- cleaner buttons instead of tiny emoji-like controls
+- site button "Sync now" opens the GitHub Actions sync page for urgent manual sync
+- site button "Refresh view" reloads the latest lessons.json after sync
+
+
+WOW redesign included:
+- premium glassmorphism-style layout
+- larger typography and stronger visual hierarchy
+- softer but brighter color system
+- cleaner buttons, no tiny emoji-like controls
+- manual Sync now button on the site that opens the GitHub workflow page
+- Refresh view button on the site
+
+
+FINAL AUTO-ONLY MODE:
+- workflow_dispatch removed
+- no manual Run workflow option
+- no Sync now button on the website
+- no Refresh view button on the website
+- GitHub Actions sync runs automatically every 10 minutes
+- while LessonFlow is open, it automatically rereads fresh lesson data every 10 minutes

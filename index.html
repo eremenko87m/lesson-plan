@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#1c1635">
+  <title>LessonFlow — Premium Teaching Dashboard</title>
+  <meta name="description" content="Beautiful daily lesson dashboard for online teachers">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="bg-orb orb-a"></div>
+  <div class="bg-orb orb-b"></div>
+  <div class="bg-orb orb-c"></div>
+
+  <div class="shell">
+    <aside class="sidebar">
+      <div class="brand">
+        <div class="brandmark"><i></i><i></i><i></i></div>
+        <div>
+          <strong>LessonFlow</strong>
+          <small>premium lesson dashboard</small>
+        </div>
+      </div>
+
+      <nav>
+        <button class="nav active">Dashboard</button>
+        <button class="nav" id="helpBtn">How it works</button>
+      </nav>
+<div class="sync-state">
+        <span class="sync-dot"></span>
+        <div>
+          <b id="sourceMode">Yandex sync</b>
+          <small id="syncStamp">demo data</small>
+        </div>
+      </div>
+    </aside>
+
+    <main>
+      <section class="hero-panel">
+        <header class="hero">
+          <div class="hero-copy">
+            <p class="eyebrow" id="greeting">GOOD MORNING</p>
+            <h1>Beautiful lesson planning that feels like a real app.</h1>
+            <p>One clear screen for links, screenshots, audio, activities and notes — so your whole teaching day feels smooth, modern and under control.</p>
+          </div>
+          <div class="hero-actions"><button class="ghost-btn" id="themeBtn">Theme</button></div>
+        </header>
+
+        <section class="datebar">
+          <button id="prevDay" aria-label="Previous day">←</button>
+          <div><strong id="dateLabel"></strong><span id="todayBtn">Back to today</span></div>
+          <button id="nextDay" aria-label="Next day">→</button>
+        </section>
+      </section>
+
+      <section class="stats">
+        <article class="stat-card lilac"><span>LESSONS</span><b id="lessonCount">0</b><i></i></article>
+        <article class="stat-card mint"><span>TEACHING TIME</span><b id="totalTime">0h</b><i></i></article>
+        <article class="stat-card peach"><span>MATERIALS</span><b id="materialCount">0</b><i></i></article>
+        <article class="stat-card night next"><span>NEXT UP</span><b id="nextLesson">—</b><i></i></article>
+      </section>
+
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">DAILY FLOW</p>
+          <h2 id="flowTitle">Lessons</h2>
+        </div>
+        <div class="legend">
+          <span><i class="green"></i>now</span>
+          <span><i class="purple"></i>next</span>
+          <span><i></i>done</span>
+        </div>
+      </div>
+
+      <section class="lesson-grid" id="lessonGrid"></section>
+      <footer>
+        <span>LessonFlow WOW</span>
+        <span>PLAN → GitHub Actions → GitHub Pages</span>
+      </footer>
+    </main>
+  </div>
+
+  <div class="overlay hidden" id="lessonModal">
+    <div class="lesson-modal">
+      <div class="modal-top">
+        <button id="closeLesson">Back to dashboard</button>
+        <div class="progress">
+          <span id="progressText"></span>
+          <div><i id="progressBar"></i></div>
+        </div>
+      </div>
+      <div id="lessonContent"></div>
+    </div>
+  </div>
+
+  <div class="overlay hidden image-overlay" id="imageModal">
+    <button id="closeImage">Close</button>
+    <img id="fullImage" alt="Lesson material">
+  </div>
+
+  <div class="overlay hidden" id="helpModal">
+    <div class="help">
+      <button id="closeHelp">Close</button>
+      <p class="eyebrow">LESSONFLOW</p>
+      <h2>How this works</h2>
+      <div class="help-grid">
+        <article><b>01</b><strong>One main sheet</strong><p>Only the sheet named <em>PLAN</em> is used for the website. GROUPS and MY BASE stay private.</p></article>
+        <article><b>02</b><strong>Fast materials</strong><p>Add links into LINK, paste screenshots over IMAGE_1 or IMAGE_2, and put mp3 links into AUDIO.</p></article>
+        <article><b>03</b><strong>Automatic updates</strong><p>LessonFlow checks the Yandex PLAN automatically every 10 minutes. No manual GitHub action or refresh button is needed.</p></article>
+      </div>
+    </div>
+  </div>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
