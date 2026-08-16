@@ -1,239 +1,242 @@
 {
-  "updatedAt": "2026-08-14T07:00:00Z",
-  "sourceMode": "demo",
+  "updatedAt": "2026-08-16T07:47:17.373563+00:00",
+  "sourceMode": "public-link",
   "sourceSheet": "PLAN",
-  "sourceFingerprint": "demo",
+  "workbookFingerprint": "f65232e084bc4dca1ddd99cf8c20d646f5c94e73630b0aac330f161259c1b385",
+  "parserFingerprint": "3a48f0460168bd8cd6a2d4d22261c5d9ff2ac396a63933a5cb49a3ab8d0263ac",
+  "sourceFingerprint": "8b5fe807dfe557438498247bf54da971cfc9e5fa5ace6cc1b08e09a18b6328a8",
   "lessons": [
     {
-      "id": "2026-08-14-1000-max",
+      "id": "2026-08-14-1000-pu1",
       "date": "2026-08-14",
       "time": "10:00",
-      "student": "Max",
+      "student": "PU1",
       "level": "A1",
       "topic": "Daily Routine",
       "focus": "Present Simple",
-      "duration": 45,
+      "duration": 60,
       "accent": "violet",
       "activities": [
         {
           "order": 1,
           "title": "Warm-up",
           "minutes": 5,
-          "url": "https://www.youtube.com/",
-          "note": "Morning routine video",
+          "url": "https://youtu.be/-LLPpg2-t0g?si=sQz1zXGO2abcdUKj",
+          "note": "Morning routine video (revise)",
           "images": [],
           "audio": null
         },
         {
           "order": 2,
           "title": "Vocabulary",
-          "minutes": 7,
-          "url": "https://quizlet.com/",
-          "note": "Revise daily routine",
+          "minutes": 10,
+          "url": "https://wordwall.net/play/111819/112/975?wwmethod=link",
+          "note": "have go do get phrases",
           "images": [],
           "audio": null
         },
         {
           "order": 3,
           "title": "Textbook practice",
-          "minutes": 10,
+          "minutes": 15,
           "url": "",
-          "note": "Exercise 4, page 57",
+          "note": "AB Exercise 1, page 10",
           "images": [
-            "assets/demo/exercise.svg"
+            "assets/generated/row4_image1.png"
           ],
           "audio": null
         },
         {
           "order": 4,
           "title": "Listening",
-          "minutes": 8,
+          "minutes": 10,
           "url": "",
-          "note": "Listen twice and choose",
+          "note": "Track 4.10 , AB Exercise 2, page 10",
           "images": [
-            "assets/demo/exercise.svg"
+            "assets/generated/row5_image1.png"
           ],
           "audio": {
-            "src": "assets/demo/demo.wav",
-            "label": "Track 2.14"
+            "src": "assets/generated/2026-08-14-1000-pu1_04_audio.mp3",
+            "label": "Audio"
           }
         },
         {
           "order": 5,
           "title": "Game",
-          "minutes": 15,
+          "minutes": 18,
           "url": "https://eremenko87m.github.io/Chores_present-simple/",
           "note": "Interactive practice",
+          "images": [],
+          "audio": null
+        },
+        {
+          "order": 6,
+          "title": "Homework",
+          "minutes": 2,
+          "url": "",
+          "note": "AB ex 3-4 p 11",
           "images": [],
           "audio": null
         }
       ]
     },
     {
-      "id": "2026-08-14-1100-sofia",
+      "id": "2026-08-14-1100-egor-отмена---в-отпуске",
       "date": "2026-08-14",
       "time": "11:00",
-      "student": "Sofia",
+      "student": "Egor (отмена - в отпуске)",
       "level": "A2",
       "topic": "Character & Personality",
       "focus": "Comparatives",
-      "duration": 60,
+      "duration": 40,
       "accent": "cyan",
       "activities": [
         {
           "order": 1,
           "title": "Warm-up",
-          "minutes": 8,
-          "url": "https://quizlet.com/",
-          "note": "Adjectives",
+          "minutes": 0,
+          "url": "",
+          "note": "",
           "images": [],
           "audio": null
         },
         {
           "order": 2,
           "title": "Grammar",
-          "minutes": 15,
-          "url": "https://docs.google.com/",
-          "note": "Comparatives practice",
+          "minutes": 0,
+          "url": "",
+          "note": "",
+          "images": [],
+          "audio": null
+        },
+        {
+          "order": 3,
+          "title": "Textbook",
+          "minutes": 0,
+          "url": "",
+          "note": "",
+          "images": [],
+          "audio": null
+        },
+        {
+          "order": 4,
+          "title": "Speaking",
+          "minutes": 0,
+          "url": "",
+          "note": "",
+          "images": [],
+          "audio": null
+        },
+        {
+          "order": 5,
+          "title": "Homework",
+          "minutes": 0,
+          "url": "",
+          "note": "",
+          "images": [],
+          "audio": null
+        }
+      ]
+    },
+    {
+      "id": "2026-08-15-1200-dima",
+      "date": "2026-08-15",
+      "time": "12:00",
+      "student": "Dima",
+      "level": "A1",
+      "topic": "In the park",
+      "focus": "Present Cont",
+      "duration": 40,
+      "accent": "lime",
+      "activities": [
+        {
+          "order": 1,
+          "title": "Warm-up",
+          "minutes": 5,
+          "url": "",
+          "note": "What is the weather like? How many children / animals can you see? What are they doing?",
           "images": [
-            "assets/demo/exercise.svg"
+            "assets/generated/row17_image1.png"
+          ],
+          "audio": null
+        },
+        {
+          "order": 2,
+          "title": "Reading",
+          "minutes": 15,
+          "url": "",
+          "note": "",
+          "images": [
+            "assets/generated/row18_image1.png"
           ],
           "audio": null
         },
         {
           "order": 3,
-          "title": "Speaking",
-          "minutes": 20,
-          "url": "https://meet.google.com/",
-          "note": "Compare two people",
-          "images": [],
-          "audio": null
-        }
-      ]
-    },
-    {
-      "id": "2026-08-14-1300-leo",
-      "date": "2026-08-14",
-      "time": "13:00",
-      "student": "Leo",
-      "level": "A1+",
-      "topic": "Summer Camping",
-      "focus": "Have got / Weather",
-      "duration": 50,
-      "accent": "lime",
-      "activities": [
-        {
-          "order": 1,
-          "title": "Vocabulary",
+          "title": "Grammar",
           "minutes": 10,
-          "url": "https://quizlet.com/",
-          "note": "Camping words",
+          "url": "",
+          "note": "Present Cont Negative",
+          "images": [
+            "assets/generated/row19_image1.png"
+          ],
+          "audio": null
+        },
+        {
+          "order": 4,
+          "title": "Speaking",
+          "minutes": 7,
+          "url": "https://www.baamboozle.com/game/2450302",
+          "note": "",
           "images": [],
           "audio": null
         },
         {
-          "order": 2,
-          "title": "Adventure game",
-          "minutes": 20,
-          "url": "https://eremenko87m.github.io/present-simple-prepositions/",
-          "note": "Interactive mission",
+          "order": 5,
+          "title": "Homework",
+          "minutes": 3,
+          "url": "",
+          "note": "",
           "images": [],
           "audio": null
         }
       ]
     },
     {
-      "id": "2026-08-14-1500-daniel",
-      "date": "2026-08-14",
-      "time": "15:00",
-      "student": "Daniel",
-      "level": "B1",
-      "topic": "Travel Stories",
-      "focus": "Speaking",
-      "duration": 50,
+      "id": "2026-08-15-1000-ivan",
+      "date": "2026-08-15",
+      "time": "10:00",
+      "student": "Ivan",
+      "level": "B1+",
+      "topic": "Future",
+      "focus": "ways of expressing future",
+      "duration": 40,
       "accent": "orange",
       "activities": [
         {
           "order": 1,
-          "title": "Photo prompt",
-          "minutes": 8,
-          "url": "https://www.youtube.com/",
-          "note": "Travel inspiration",
-          "images": [],
-          "audio": null
-        },
-        {
-          "order": 2,
-          "title": "Main speaking",
-          "minutes": 30,
-          "url": "https://meet.google.com/",
-          "note": "Tell a travel story",
-          "images": [],
-          "audio": null
-        }
-      ]
-    },
-    {
-      "id": "2026-08-14-1700-mia",
-      "date": "2026-08-14",
-      "time": "17:00",
-      "student": "Mia",
-      "level": "B2",
-      "topic": "Animal Farm",
-      "focus": "Literature",
-      "duration": 55,
-      "accent": "rose",
-      "activities": [
-        {
-          "order": 1,
-          "title": "Text",
-          "minutes": 15,
+          "title": "Warm-up",
+          "minutes": 3,
           "url": "",
-          "note": "Read and analyse",
-          "images": [
-            "assets/demo/exercise.svg"
-          ],
-          "audio": null
-        },
-        {
-          "order": 2,
-          "title": "Discussion",
-          "minutes": 20,
-          "url": "https://zoom.us/",
-          "note": "Who is responsible?",
+          "note": "What are your plans for the rest of this summer?",
           "images": [],
           "audio": null
-        }
-      ]
-    },
-    {
-      "id": "2026-08-14-1900-alex",
-      "date": "2026-08-14",
-      "time": "19:00",
-      "student": "Alex",
-      "level": "A2+",
-      "topic": "Free Time",
-      "focus": "Present Continuous",
-      "duration": 45,
-      "accent": "blue",
-      "activities": [
-        {
-          "order": 1,
-          "title": "Grammar",
-          "minutes": 10,
-          "url": "https://docs.google.com/",
-          "note": "Quick review",
-          "images": [
-            "assets/demo/exercise.svg"
-          ],
-          "audio": null
         },
         {
           "order": 2,
-          "title": "Game",
-          "minutes": 15,
-          "url": "https://www.baamboozle.com/games",
-          "note": "Action challenge",
+          "title": "Reading",
+          "minutes": 30,
+          "url": "",
+          "note": "Идем по учебнику unit 3",
+          "images": [],
+          "audio": null
+        },
+        {
+          "order": 3,
+          "title": "Homework",
+          "minutes": 2,
+          "url": "",
+          "note": "",
           "images": [],
           "audio": null
         }
